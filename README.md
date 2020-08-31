@@ -39,7 +39,7 @@ yarn
 Go to Outlook.com folder and run 
 ```bash
 yarn dist:win
-yarn dist:macOS
+yarn dist:macos
 yarn dist:linux
 ``` 
 To build each distribution for outlook.com.  The installers will be built into the dist folder.
@@ -49,7 +49,7 @@ To build each distribution for outlook.com.  The installers will be built into t
 Go to Office365  folder and run 
 ```bash
 yarn dist:win
-yarn dist:macOS
+yarn dist:macos
 yarn dist:linux
 ``` 
 To build each distribution for office365.  The installers will be built into the dist folder.
